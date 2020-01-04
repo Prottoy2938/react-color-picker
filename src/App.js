@@ -43,15 +43,20 @@ class App extends Component {
     );
   }
   render() {
+    console.log(
+      "Color Wheel icon icon by Icons8",
+      "https://icons8.com/icons/set/rgb-circle-1--v1"
+    );
+
     return (
       <Route
         render={({ location }) => (
           <TransitionGroup>
-            <CSSTransition key={location.key} classNames='page' timeout={500}>
+            <CSSTransition key={location.key} classNames="page" timeout={500}>
               <Switch location={location}>
                 <Route
                   exact
-                  path='/palette/new'
+                  path="/palette/new"
                   render={routeProps => (
                     <Page>
                       <NewPaletteForm
@@ -64,7 +69,7 @@ class App extends Component {
                 />
                 <Route
                   exact
-                  path='/palette/:paletteId/:colorId'
+                  path="/palette/:paletteId/:colorId"
                   render={routeProps => (
                     <Page>
                       <SingleColorPalette
@@ -78,7 +83,7 @@ class App extends Component {
                 />
                 <Route
                   exact
-                  path='/'
+                  path="/"
                   render={routeProps => (
                     <Page>
                       <PaletteList
@@ -91,7 +96,7 @@ class App extends Component {
                 />
                 <Route
                   exact
-                  path='/palette/:id'
+                  path="/palette/:id"
                   render={routeProps => (
                     <Page>
                       <Palette
