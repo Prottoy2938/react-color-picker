@@ -47,7 +47,9 @@ class App extends Component {
       "Color Wheel icon icon by Icons8",
       "https://icons8.com/icons/set/rgb-circle-1--v1"
     );
-
+    console.log(
+      "Due to Github page issue, some pages are breaking sometimes. I can't find whats the bug and how to fix that. Pages work properly on localhost"
+    );
     return (
       <Route
         render={({ location }) => (
