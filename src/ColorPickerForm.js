@@ -52,16 +52,16 @@ class ColorPickerForm extends Component {
         />
         <ValidatorForm
           onSubmit={this.handleSubmit}
-          ref='form'
+          ref="form"
           instantValidate={false}
         >
           <TextValidator
             value={newColorName}
             className={classes.colorNameInput}
-            placeholder='Color Name'
-            name='newColorName'
-            variant='filled'
-            margin='normal'
+            placeholder="Color Name"
+            name="newColorName"
+            variant="filled"
+            margin="normal"
             onChange={this.handleChange}
             validators={["required", "isColorNameUnique", "isColorUnique"]}
             errorMessages={[
@@ -71,9 +71,9 @@ class ColorPickerForm extends Component {
             ]}
           />
           <Button
-            variant='contained'
-            type='submit'
-            color='primary'
+            variant="contained"
+            type="submit"
+            color="primary"
             disabled={paletteIsFull}
             className={classes.addColor}
             style={{
