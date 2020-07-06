@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-color-picker/static/css/main.082a7fac.chunk.css",
-    "main.js": "/react-color-picker/static/js/main.41e15515.chunk.js",
-    "main.js.map": "/react-color-picker/static/js/main.41e15515.chunk.js.map",
-    "runtime-main.js": "/react-color-picker/static/js/runtime-main.4a51ade7.js",
-    "runtime-main.js.map": "/react-color-picker/static/js/runtime-main.4a51ade7.js.map",
-    "static/css/2.753ea2eb.chunk.css": "/react-color-picker/static/css/2.753ea2eb.chunk.css",
-    "static/js/2.2486f5f8.chunk.js": "/react-color-picker/static/js/2.2486f5f8.chunk.js",
-    "static/js/2.2486f5f8.chunk.js.map": "/react-color-picker/static/js/2.2486f5f8.chunk.js.map",
+    "main.css": "/react-color-picker/static/css/main.6c3b9727.chunk.css",
+    "main.js": "/react-color-picker/static/js/main.33a4885a.chunk.js",
+    "main.js.map": "/react-color-picker/static/js/main.33a4885a.chunk.js.map",
+    "runtime-main.js": "/react-color-picker/static/js/runtime-main.6303d360.js",
+    "runtime-main.js.map": "/react-color-picker/static/js/runtime-main.6303d360.js.map",
+    "static/css/2.680d5051.chunk.css": "/react-color-picker/static/css/2.680d5051.chunk.css",
+    "static/js/2.40f7188d.chunk.js": "/react-color-picker/static/js/2.40f7188d.chunk.js",
+    "static/js/2.40f7188d.chunk.js.map": "/react-color-picker/static/js/2.40f7188d.chunk.js.map",
     "index.html": "/react-color-picker/index.html",
-    "precache-manifest.9d678d47564d03d4a6e6fae53336f65d.js": "/react-color-picker/precache-manifest.9d678d47564d03d4a6e6fae53336f65d.js",
+    "precache-manifest.406adcb96ae0fbc4e895d4e0af9c2e3d.js": "/react-color-picker/precache-manifest.406adcb96ae0fbc4e895d4e0af9c2e3d.js",
     "service-worker.js": "/react-color-picker/service-worker.js",
-    "static/css/2.753ea2eb.chunk.css.map": "/react-color-picker/static/css/2.753ea2eb.chunk.css.map",
-    "static/css/main.082a7fac.chunk.css.map": "/react-color-picker/static/css/main.082a7fac.chunk.css.map",
-    "static/js/2.2486f5f8.chunk.js.LICENSE": "/react-color-picker/static/js/2.2486f5f8.chunk.js.LICENSE",
+    "static/css/2.680d5051.chunk.css.map": "/react-color-picker/static/css/2.680d5051.chunk.css.map",
+    "static/css/main.6c3b9727.chunk.css.map": "/react-color-picker/static/css/main.6c3b9727.chunk.css.map",
+    "static/js/2.40f7188d.chunk.js.LICENSE.txt": "/react-color-picker/static/js/2.40f7188d.chunk.js.LICENSE.txt",
     "static/media/bg.svg": "/react-color-picker/static/media/bg.77428cd4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a51ade7.js",
-    "static/css/2.753ea2eb.chunk.css",
-    "static/js/2.2486f5f8.chunk.js",
-    "static/css/main.082a7fac.chunk.css",
-    "static/js/main.41e15515.chunk.js"
+    "static/js/runtime-main.6303d360.js",
+    "static/css/2.680d5051.chunk.css",
+    "static/js/2.40f7188d.chunk.js",
+    "static/css/main.6c3b9727.chunk.css",
+    "static/js/main.33a4885a.chunk.js"
   ]
 }
